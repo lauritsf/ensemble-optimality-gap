@@ -1,0 +1,16 @@
+# General python dependencies.
+# PyTorch, Torchvision, and PyGeometric must be installed
+# separately by following the official instructions
+# for your specific hardware (e.g., CUDA, CPU).
+# 
+# PyTorch: https://pytorch.org/get-started/locally/
+# PyG: https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
+
+datasets==3.0.1
+pandas==2.3.3
+scikit_learn==1.7.2
+torchmetrics==1.6.0
+transformers==4.45.1
+typer==0.20.0
+wget==3.2
+wandb==0.23.0

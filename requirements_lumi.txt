@@ -1,0 +1,18 @@
+# For use on LUMI within the specified container.
+# This file contains exact versions, including
+# hardware-specific (ROCm) builds.
+# 
+# Run from inside the activated venv:
+# python -m pip install -r requirements-lumi.txt
+
+datasets==3.0.1
+pandas==2.3.3
+scikit\_learn==1.7.2
+torch==2.4.1+rocm6.1
+torch\_geometric==2.7.0
+torchmetrics==1.6.0
+torchvision==0.19.1+rocm6.1
+transformers==4.45.1
+typer==0.20.0
+wget==3.2
+wandb==0.23.0
