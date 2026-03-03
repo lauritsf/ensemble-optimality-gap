@@ -4,7 +4,7 @@ This repository contains the code for the TMLR 2025 paper:
 **On Joint Regularization and Calibration in Deep Ensembles**
 *Laurits Fredsgaard, Mikkel N. Schmidt*
 
-[**Paper (TMLR/OpenReview)**](https://openreview.net/forum?id=6xqV7DP3Ep) | [**Paper (PDF)**](https://openreview.net/pdf?id=6xqV7DP3Ep)
+[**Paper (TMLR/OpenReview)**](https://openreview.net/forum?id=6xqV7DP3Ep) | [**Paper (PDF/arXiv)**](https://arxiv.org/pdf/2511.04160)
 
 ## Requirements
 
